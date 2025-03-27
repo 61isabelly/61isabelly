@@ -1,10 +1,14 @@
-<h1 align="center">Hey there, I'm Isabelly :)</h1>
+<h1 align="center">Hey, there!</h1>
+
+```
+I'm Isabelly, Back-End developer, Database student and tech enthusiast.
+```
 
 ## My Stats
 
 <div align="center">
 
-| ![Isabelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=61isabelly&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=61isabelly&theme=dark&hide_border=false) |
+| ![61isabelly's Stats](https://github-readme-stats.vercel.app/api?username=61isabelly&theme=dark&show_icons=true&hide_border=false&count_private=true) | ![61isabelly's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=61isabelly&theme=dark&show_icons=true&hide_border=false&layout=compact)|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 
 </div>
