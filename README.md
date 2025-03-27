@@ -1,29 +1,12 @@
-<h1 align="center">Hi, I'm Isabelly!</h1>
-  
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=61isabelly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150"
-</div>
+<h1 align="center">Hey there, I'm Isabelly :)</h1>
 
-###
+## My Stats
+![61isabelly's Stats](https://github-readme-stats.vercel.app/api?username=61isabelly&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![61isabelly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=61isabelly&theme=dark&hide_border=false)
 
-<br clear="both">
-
-<div align="right">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-</div>
-
-![catttttttt](https://github.com/user-attachments/assets/5ccf7ce1-76a0-48c4-966d-06b7f211e44a)       
-
-
+---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,java,py,c,nodejs,mysql,go" />
+  </a>
+</p>
