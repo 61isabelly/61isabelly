@@ -3,9 +3,10 @@
 ## My Stats
 
 <div align="center">
-
-  ![61isabelly's Stats](https://github-readme-stats.vercel.app/api?username=61isabelly&theme=dark&show_icons=true&hide_border=false&count_private=true)
-  ![61isabelly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=61isabelly&theme=dark&hide_border=false)
+  <a href="https://github.com/61isabelly">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=61isabelly&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=61isabelly&theme=dark&hide_border=false" />
+  </a>
 </div>
 
 ---
